@@ -1,15 +1,15 @@
 <p align="center">
-  <img width="70%" src="https://github.com/321mzaasim/nav-project/Assets/nav-logo.png">
+  <img width="70%" src="https://github.com/321mzaasim/nav-project/blob/master/Assets/nav-logo.png">
 </p>
 
 # NAV-MY-WAY
 
 An augmented reality indoor navigation app made using Google ARCore and Unity
 
-*This was made for **SIH** by team ***NAV**
+* This was made for **SIH** by team **NAV**
 
 <p align="center">
-  <img src="https://github.com/321mzaasim/nav-project/Assets/nav-way.png" width="40%">
+  <img src="https://github.com/321mzaasim/nav-project/blob/master/Assets/nav-way.jpeg" width="30%">
 </p>
 
 ## Motivation
@@ -39,21 +39,21 @@ Once the destination is close enough, Google Maps does not provide the best user
 ## Demos
 
 <p align="center">
-
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="700" height="443" type="text/html" src="https://www.youtube.com/embed/T4_kIQLdkNs?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/pl/">youtubeembedcode.com/pl/</a></small></div><div><small><a href="http://add-link-exchange.com">www://add-link-exchange.com</a></small></div><div><small><a href="https://youtubeembedcode.com/pl/">youtubeembedcode pl</a></small></div><div><small><a href="http://add-link-exchange.com">http://add-link-exchange.com</a></small></div></iframe>
+Youtube Link-https://youtu.be/T4_kIQLdkNs
 </p>
 
 <p align="center">
   <i>Placing markers ➡ Saving markers ➡  Object guiding user</i>
 </p>
 
-## Process
 
-- Open the application
-- Enter your destination
-- Search for nearby Nav image displayed on the screen 
-- Follow the Objects
-- You will reach your destination
+## APP WORKING
+
+* Once you open the app, you would be asked to scan your environment
+* After the scanning is done,  you would have to enter your destination.
+* After you've typed your destination, click on the next button
+* Next, you would be shown a NAV image by the application itself. This NAV image would be within 10-15m from where you are standing. You would have to go there and scan that image so as to find your accurate location.
+* Once all this is done, the application would navigate you to your destination
 
 
 ## Status of the Project
@@ -66,9 +66,9 @@ Once the destination is close enough, Google Maps does not provide the best user
 
 ####  Future Work
 
-Once multiple paths are stored, they can be integrated into a search like interface so that the user can choose which destination is to be reached.
-
-Other user interface and user experience improvements can be implemented to make the app easier and more pleasing to use.
+* While your navigating to your destination , the shops that have  paid for promotion would be popped up on the screen and if the user wants, he can go there.
+* Next, we have a few interactive cartoons which would guide you to your destination, to avoid confusion.
+* Voice command is included for ease of use.
 
 
 
